@@ -1,0 +1,12 @@
+[user]
+	name = Dmitry
+	email = dmitry@vizualtech.com
+[core]
+	editor = vim
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[color]
+	ui = auto
